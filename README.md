@@ -152,5 +152,4 @@ Based on predictive modeling and market similarity, ABG Motors should <b>enter t
 <p>
 <b>Sangamesh kalashetty </b>
 GitHub: <a href="https://github.com/sangameshkalashetty">sangamessh kalashetty</a><br>
-
 </p>
