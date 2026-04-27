@@ -150,8 +150,7 @@ Based on predictive modeling and market similarity, ABG Motors should <b>enter t
 
 <h2>🙋‍♂️ Author</h2>
 <p>
-<b>Laxmi Shankarappa Melkeri</b><br>
-Masters in statistics<br>
-GitHub: <a href="https://github.com/laxmimelkeri1774-hub">laxmimelkeri1774</a><br>
-LinkedIn: <a href="#">https://www.linkedin.com/in/laxmi-melkeri-269b2822a-/</a>
+<b>Sangamesh kalashetty </b>
+GitHub: <a href="https://github.com/sangameshkalashetty">sangamessh kalashetty</a><br>
+
 </p>
