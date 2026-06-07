@@ -8,9 +8,6 @@ Indian customers and evaluating profitability against a sales target of <b>12,00
 </p>
 
 <p align="center">
-  <img src="https://github.com/sangameshkalashetty/Market-Entry-Analysis-for-ABG-Motors-in-India---CAPSTONE-PROJECT--main/tree/main">
-</p>
-
 <hr>
 
 <h2>🧠 Problem Statement</h2>
